@@ -1,0 +1,1 @@
+(self.webpackChunkmy_react_ts=self.webpackChunkmy_react_ts||[]).push([[291],{641:(e,t,c)=>{"use strict";c.r(t),c.d(t,{default:()=>l});const a=c.p+"static/es6.html",l=()=>(document.location.href=a,React.createElement("div",null,React.createElement("h1",null," ES6新特性 ")))}}]);

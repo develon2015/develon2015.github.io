@@ -1,0 +1,1 @@
+(self.webpackChunkmy_react_ts=self.webpackChunkmy_react_ts||[]).push([[324],{6011:(e,t,s)=>{"use strict";s.r(t),s.d(t,{default:()=>c});var a=s(3804);const c=()=>a.createElement("div",null)}}]);
